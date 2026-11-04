@@ -3,4 +3,5 @@ Baic EDA,,,
 Preprocessing,1) cat var encoding,,
 ,2) class imbalance,,
 Baseline Models,,,
-Out of Time Analysis,3) PSI CSI,,
+Out of Time Analysis,3) PSI CSI,,"No timestamp data, only day and month"
+,,,Documentation says that rows are in chronological order
