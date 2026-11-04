@@ -1,0 +1,6 @@
+TASK,SUBTASK,TIMELINE,REMARKS
+Baic EDA,,,
+Preprocessing,1) cat var encoding,,
+,2) class imbalance,,
+Baseline Models,,,
+Out of Time Analysis,3) PSI CSI,,
