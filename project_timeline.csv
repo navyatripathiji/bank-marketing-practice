@@ -1,7 +1,8 @@
 TASK,SUBTASK,TIMELINE,REMARKS
-Baic EDA,,,
-Preprocessing,1) cat var encoding,,
-,2) class imbalance,,
+Baic EDA,,2 nov- 4 nov,"Bank and bank additional have no relationship, cannot be merged in any way. Going ahead with bank-additional-full [df3] (20 features)"
+Preprocessing,1) cat var encoding,4 nov-,
+,2) feature analysis,,What all features are available before calling?
+,3) class imbalance,,
 Baseline Models,,,
 Out of Time Analysis,3) PSI CSI,,"No timestamp data, only day and month"
 ,,,Documentation says that rows are in chronological order
