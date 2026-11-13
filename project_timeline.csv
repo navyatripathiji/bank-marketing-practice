@@ -3,6 +3,8 @@ Baic EDA,,2 nov- 4 nov,"Bank and bank additional have no relationship, cannot be
 Preprocessing,1) cat var encoding,4 nov-,
 ,2) feature analysis,,What all features are available before calling?
 ,3) class imbalance,,
-Baseline Models,,,
-Out of Time Analysis,3) PSI CSI,,"No timestamp data, only day and month"
+Baseline Models,1) with all features,10 nov- 13 nov,"Trained and calculated results on dt, rf, xib, logistic, decile analysis for comparision"
+,2) dropping v high iv features [v1],13 nov-,
+,3) dropping correlated features,,
+Out of Time Analysis,1) PSI CSI,,"No timestamp data, only day and month"
 ,,,Documentation says that rows are in chronological order
